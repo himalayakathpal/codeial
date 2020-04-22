@@ -1,0 +1,9 @@
+main {
+  text-align: center;
+  margin-top: 200px;
+  color: lightcoral; }
+  main div {
+    margin-bottom: 10px; }
+    main div button {
+      background-color: lightcoral;
+      color: white; }

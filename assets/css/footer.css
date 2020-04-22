@@ -1,0 +1,14 @@
+footer {
+  background-color: lightcoral;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  justify-content: center;
+  height: 60px; }
+  footer div {
+    width: 100px;
+    margin-top: 20px; }
+    footer div a {
+      text-decoration: none;
+      color: white; }

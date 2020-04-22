@@ -1,0 +1,17 @@
+footer{
+    background-color: lightcoral;
+    display:flex;
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    justify-content: center;
+    height:60px;
+        div{
+            width:100px;
+            margin-top:20px;
+                a{
+                    text-decoration: none;
+                    color:white;
+                }
+        }
+}
